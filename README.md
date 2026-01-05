@@ -5,7 +5,7 @@ I enjoy building scalable web applications, integrating **LLM-powered systems**,
 
 ---
 
-## 🚀 What I’m Currently Working On
+## What I’m Currently Working On
 - Building **AI-powered web applications**
 - Automating workflows using **Large Language Models (LLMs)**
 - Designing and developing **end-to-end products** (UX → Backend → Deployment)
@@ -40,7 +40,7 @@ I enjoy building scalable web applications, integrating **LLM-powered systems**,
 
 ---
 
-## 📫 How to Reach Me
+## How to Reach Me
 - **Email:** teferafiratolesayas@gmail.com  
 - **LinkedIn:** https://linkedin.com/in/firatol-esayas-tefera-09090132a  
 - **Instagram:** https://instagram.com/firatolin.tefera  
