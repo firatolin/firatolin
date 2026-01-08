@@ -33,7 +33,7 @@ I enjoy building scalable web applications, integrating **LLM-powered systems**,
 - LangChain  
 - AI-driven automation workflows  
 
-**Design:**  
+**Design Version:**  
 - Figma  
 - Git & GitHub  
 
