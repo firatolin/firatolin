@@ -33,9 +33,8 @@ I enjoy building scalable web applications, integrating **LLM-powered systems**,
 - LangChain  
 - AI-driven automation workflows  
 
-**Design & DevOps:**  
+**Design:**  
 - Figma  
-- Docker  
 - Git & GitHub  
 
 ---
