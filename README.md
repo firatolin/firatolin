@@ -40,8 +40,8 @@ I enjoy building scalable web applications, integrating **LLM-powered systems**,
 ---
 
 ## How to Reach Me
-- **Email:** teferafiratolesayas@gmail.com  
-- **LinkedIn:** https://linkedin.com/in/firatol-esayas-tefera-09090132a  
+- **Email:** contact@firatolin.tech  
+- **LinkedIn:** https://linkedin.com/in/firatol-esayas-tefera
 - **Instagram:** https://instagram.com/firatolin.tefera  
 - **X (Twitter):** https://x.com/firatolin_
 
