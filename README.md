@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Firatol Esayas
 
-I’m a **Full-Stack Software Engineer** with a strong focus on **AI Automation** and **Product Design**.  
+I’m a **Full-Stack Software Engineer** with a strong focus on **Web-Applications** and **AI integrations**.  
 I enjoy building scalable web applications, integrating **LLM-powered systems**, and designing intuitive, user-centered digital products.
 
 ---
