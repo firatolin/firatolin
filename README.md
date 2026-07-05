@@ -40,7 +40,8 @@ I enjoy building scalable web applications, integrating **LLM-powered systems**,
 ---
 
 ## How to Reach Me
-- **Email:** contact@firatolin.tech  
+- **Email:** contact@firatolin.tech
+- **UpWork:** https://www.upwork.com/freelancers/~013702dbb39e143318 
 - **LinkedIn:** https://linkedin.com/in/firatol-esayas-tefera
 - **Instagram:** https://instagram.com/firatolin.tefera  
 - **X (Twitter):** https://x.com/firatolin_
