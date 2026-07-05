@@ -25,7 +25,9 @@ I enjoy building scalable web applications, integrating **LLM-powered systems**,
 - Tailwind CSS  
 
 **Backend & Data:**  
-- Node.js  
+- Node.js
+- NestJS
+- Express.js
 - REST APIs  
 - PostgreSQL
 - Supabase (Postgres backend + Auth + Storage)
