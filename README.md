@@ -20,22 +20,30 @@ I enjoy building scalable web applications, integrating **LLM-powered systems**,
 
 **Frontend:**  
 - React  
-- Next.js  
+- Next.js 
+- TanStack Query
 - Tailwind CSS  
 
 **Backend & Data:**  
 - Node.js  
 - REST APIs  
-- PostgreSQL  
+- PostgreSQL
+- Supabase (Postgres backend + Auth + Storage)
+- MongoDB (NoSQL)
 
 **AI & Automation:**  
 - Large Language Models (LLMs)  
 - LangChain  
-- AI-driven automation workflows  
+- AI Agents
+- RAG
+- Prompt Engineering
 
-**Design Version:**  
-- Figma  
-- Git & GitHub  
+**DevOps & Tools:**  
+- Git & GitHub
+- Docker
+- Vercel
+- Postman
+- Figma
 
 ---
 
@@ -48,4 +56,4 @@ I enjoy building scalable web applications, integrating **LLM-powered systems**,
 
 ---
 
-⭐️ *Code. Automate. Design. Build.*
+ *Design. Develop. Automate. Deploy.*
